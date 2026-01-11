@@ -41,7 +41,7 @@ and R² score.
 - Google Colab
 
 ## Project Notebook
-The complete project implementation is available in the uploaded Jupyter
+The complete project implementation is available in the uploaded Google colab
 Notebook.
 
 
